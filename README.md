@@ -1,6 +1,6 @@
 # MOVEIT
 
-This is a project that was carried out during a week of learning, provided by the company Rocketseat.
+* This is a project that was carried out during a week of learning, provided by the company Rocketseat.
 
 ### 🛠 Tecnologias
 
@@ -10,5 +10,8 @@ The following tools were used in the construction of the project:
 - [NextJs](https://nextjs.org/)
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
+
+### 🚀 Rocketseat:
+- [Rocketseat](https://rocketseat.com.br/)
 
 ![Badge](https://img.shields.io/badge/Wallace-Junior-%237159c1?style=for-the-badge&logo=ghost)
