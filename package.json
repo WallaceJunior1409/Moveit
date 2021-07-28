@@ -19,5 +19,17 @@
     "@types/react": "^17.0.2",
     "@types/react-dom": "^17.0.1",
     "typescript": "^4.2.2"
-  }
+  },
+  "description": "* This is a project that was carried out during a week of learning, provided by the company Rocketseat.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WallaceJunior1409/Moveit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WallaceJunior1409/Moveit/issues"
+  },
+  "homepage": "https://github.com/WallaceJunior1409/Moveit#readme"
 }
